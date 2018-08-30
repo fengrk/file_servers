@@ -20,11 +20,10 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-0.0.0.0 account.jetbrains.com
-0.0.0.0 account.jetbrains.com
 127.0.0.1   baidu.com
 127.0.0.1   zhihu.com
-
+127.0.0.1   www.baidu.com
+127.0.0.1   www.zhihu.com
 
 
 
